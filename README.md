@@ -1,8 +1,10 @@
 antiX Wallpaper project
 
-Images created with AIMAGoR for Linux, the links to the wallpapers are below the thumbnail,
+Images created with [AIMAGoR](https://github.com/vitforlinux-gimp/AIMAGoR) for Linux, the links to the wallpapers are below the thumbnail,
 
 use right-click save as to download the image in 1920x1280 format in .jpg.
+
+[PROMPTS](https://github.com/vitforlinux-gimp/antiX-Wallpapers/blob/main/prompts.txt)
 
 ![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/001-antiX-Wallpaper-project.jpg)
 
