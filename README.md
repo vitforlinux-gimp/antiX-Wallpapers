@@ -4,7 +4,7 @@ Images created with [AIMAGoR](https://github.com/vitforlinux-gimp/AIMAGoR) for L
 
 use right-click save as to download the image in 1920x1280 format in .jpg.
 
-[PROMPTS](https://github.com/vitforlinux-gimp/antiX-Wallpapers/blob/main/prompts.txt)
+[PROMPTS](https://github.com/vitforlinux-gimp/antiX-Wallpapers/blob/main/prompts.txt) all images are licensed under GPL V3
 
 ![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/001-antiX-Wallpaper-project.jpg)
 
