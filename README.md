@@ -1,6 +1,7 @@
 antiX Wallpaper project
 
-Images created with AIMAGoR for Linux, the links to the wallpaper are under the thumbnail, use right click save as if to download the image in 1920x1280 format in .jpg
+Images created with AIMAGoR for Linux, the links to the wallpapers are below the thumbnail,
+use right-click save as to download the image in 1920x1280 format in .jpg.
 
 ![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/001-antiX-Wallpaper-project.jpg)
 
