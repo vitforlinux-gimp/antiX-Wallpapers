@@ -57,4 +57,19 @@
 057 - Wallpaper with centerd text 'antiX'   style Fairy Tale Art.330
 058 - Wallpaper with centerd text 'antiX'  style tropical paradise.32242
 059 - Wallpaper with centerd text 'antiX' .10743
+060 - background with cappuccino colors with centered text 'antiX'  not 'anttiX' style 3d Objects.2.2336
+061 - background with cappuccino colors with centered text 'antiX' not text 'anttiX'  style 3d Objects 3.22168
+062 - background with centered text "antiX" colors blue pink green 2   .25891
+063 - background with centered text "antiX" dichromatic colors blue pink green 2  .29288
+064 - background with centered text 'antiX' not 'antliX' .8818
+065 - background with centered text 'antiX' not 'antliX'  not 'anttiX' style 3d Objects.14378
+066 - background with centered text 'antiX' not 'antliX'  style 3d Objects 2.5386
+067 - background with centered text 'antiX'  not 'anttiX' style 3d Objects2.17991
+068 -background with centered text 'antiX'  not 'anttiX' style 3d Objects3.17991
+069 - background with centered text 'antiX' style 3d Objects.13973
+070 - background with centered text 'antiX' style military  .17237
+071 - background with centered text 'antiX' style military   .20670
+072 - wallpaper color pink neutral background  text 'antiX' not 'aitttX'  not 'antliX' not 'anttiX'  style 3d Objects.19306
+
+
 
