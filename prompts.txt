@@ -70,6 +70,11 @@
 070 - background with centered text 'antiX' style military  .17237
 071 - background with centered text 'antiX' style military   .20670
 072 - wallpaper color pink neutral background  text 'antiX' not 'aitttX'  not 'antliX' not 'anttiX'  style 3d Objects.19306
+073 - wallpaper with centered text 'antiX' exactly as written in color 41b135    style political satire cartoon.8836
+074 - wallpaper with centered text 'antiX' exactly as written in color ffff00   .32510
+075 - wallpaper with centered text 'antiX' exactly as written in color ffff00    style political satire cartoon.32742
+076 - wallpaper with centered text 'antiX' exactly as written   style 3d Objects.17092
+077 - wallpaper with centered text 'antiX' exactly as written style Pop Art poster  .22783
 
 
 
