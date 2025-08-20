@@ -350,6 +350,26 @@ use right-click save as to download the image in 1920x1280 format in .jpg.
 
 [antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/072-antiX-Wallpaper-project.jpg)
 
+![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/073-antiX-Wallpaper-project.jpg)
+
+[antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/073-antiX-Wallpaper-project.jpg)
+
+![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/074-antiX-Wallpaper-project.jpg)
+
+[antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/074-antiX-Wallpaper-project.jpg)
+
+![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/075-antiX-Wallpaper-project.jpg)
+
+[antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/075-antiX-Wallpaper-project.jpg)
+
+![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/076-antiX-Wallpaper-project.jpg)
+
+[antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/076-antiX-Wallpaper-project.jpg)
+
+![antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/thumb/077-antiX-Wallpaper-project.jpg)
+
+[antiX Wallpaper](https://raw.githubusercontent.com/vitforlinux-gimp/antiX-Wallpapers/refs/heads/main/images/077-antiX-Wallpaper-project.jpg)
+
 
 
 
